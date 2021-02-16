@@ -20,3 +20,4 @@ document
     localStorage.setItem(question, answer);
     console.log(question, answer); /* var izdzēst pēc testēšanas */
   });
+ 
